@@ -5,3 +5,5 @@
 ![Yazarlar](https://github.com/TMBilalTM/kutuphane_otomasyonu/assets/112407129/7371e137-01e8-4117-b1e7-783ba552456e)
 ![İstatistik](https://github.com/TMBilalTM/kutuphane_otomasyonu/assets/112407129/52eff5c5-098d-4a14-af40-02d05622d4c1)
 ![Profil](https://github.com/TMBilalTM/kutuphane_otomasyonu/assets/112407129/38f06dff-a7c9-4dd6-bad1-7c80ac782787)
+
+Database örneği ve resimler dosyaların içinde bulunmaktadır, iyi kullanımlar.
